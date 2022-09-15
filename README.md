@@ -9,5 +9,5 @@ Main structures:
 - Provide a quick view of Asian football record at World Cup
 - Analyze Korean goals, conceded goals, cards distributions, and Penalty success rate to report insights on Korea key weaknesses
 
-
+Google slide presentation file here: https://docs.google.com/presentation/d/16PJGv3531dwZucWKZX7hgBCpxlsR9js4kKWAHnnDbzI/edit?usp=sharing
 
